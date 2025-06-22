@@ -48,7 +48,7 @@ const App = () => {
     {
       id: 'agriculture',
       title: 'Agriculture Tech',
-      icon: LeafIcon,
+      icon: BeakerIcon,
       image: 'https://images.pexels.com/photos/96417/pexels-photo-96417.jpeg',
       description: 'Smart farming solutions for sustainable agriculture',
       features: [
